@@ -74,5 +74,7 @@ dds <- DESeqDataSet(airway, design = ~ dex)
 dds <- DESeq(dds)
 res <- results(dds)
 
+---
+
 ## Author
 Paula
