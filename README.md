@@ -50,7 +50,7 @@ Results/ → output files
 
 ### Volcano Plot
 
-![Volcano Plot](Results/volcano_plot.png)
+![Volcano Plot](Results/Volcano_plot.png)
 
 ---
 
